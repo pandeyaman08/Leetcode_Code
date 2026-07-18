@@ -4,11 +4,13 @@
 ## Array
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/pandeyaman08/Leetcode_Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/pandeyaman08/Leetcode_Code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pandeyaman08/Leetcode_Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/pandeyaman08/Leetcode_Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/pandeyaman08/Leetcode_Code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pandeyaman08/Leetcode_Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -26,6 +28,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/pandeyaman08/Leetcode_Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/pandeyaman08/Leetcode_Code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pandeyaman08/Leetcode_Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
