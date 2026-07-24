@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/pandeyaman08/Leetcode_Code/tree/master/0015-3sum) |
 | [1260-shift-2d-grid](https://github.com/pandeyaman08/Leetcode_Code/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pandeyaman08/Leetcode_Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/pandeyaman08/Leetcode_Code/tree/master/3312-sorted-gcd-pair-queries) |
@@ -20,10 +21,12 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/pandeyaman08/Leetcode_Code/tree/master/0015-3sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pandeyaman08/Leetcode_Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/pandeyaman08/Leetcode_Code/tree/master/0015-3sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pandeyaman08/Leetcode_Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
