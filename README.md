@@ -33,6 +33,7 @@
 | [0015-3sum](https://github.com/pandeyaman08/Leetcode_Code/tree/master/0015-3sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pandeyaman08/Leetcode_Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pandeyaman08/Leetcode_Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/pandeyaman08/Leetcode_Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/pandeyaman08/Leetcode_Code/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pandeyaman08/Leetcode_Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -73,6 +74,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pandeyaman08/Leetcode_Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/pandeyaman08/Leetcode_Code/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/pandeyaman08/Leetcode_Code/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/pandeyaman08/Leetcode_Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
 | ------- |
@@ -105,4 +107,8 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pandeyaman08/Leetcode_Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/pandeyaman08/Leetcode_Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
