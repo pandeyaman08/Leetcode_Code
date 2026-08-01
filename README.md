@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/pandeyaman08/Leetcode_Code/tree/master/0015-3sum) |
+| [0486-predict-the-winner](https://github.com/pandeyaman08/Leetcode_Code/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pandeyaman08/Leetcode_Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/pandeyaman08/Leetcode_Code/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pandeyaman08/Leetcode_Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -16,6 +17,7 @@
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/pandeyaman08/Leetcode_Code/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pandeyaman08/Leetcode_Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pandeyaman08/Leetcode_Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pandeyaman08/Leetcode_Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -124,4 +126,16 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/pandeyaman08/Leetcode_Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/pandeyaman08/Leetcode_Code/tree/master/0486-predict-the-winner) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/pandeyaman08/Leetcode_Code/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/pandeyaman08/Leetcode_Code/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
