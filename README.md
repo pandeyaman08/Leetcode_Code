@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/pandeyaman08/Leetcode_Code/tree/master/0015-3sum) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pandeyaman08/Leetcode_Code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pandeyaman08/Leetcode_Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -94,6 +95,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pandeyaman08/Leetcode_Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pandeyaman08/Leetcode_Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pandeyaman08/Leetcode_Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pandeyaman08/Leetcode_Code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/pandeyaman08/Leetcode_Code/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/pandeyaman08/Leetcode_Code/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/pandeyaman08/Leetcode_Code/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -109,6 +111,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pandeyaman08/Leetcode_Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pandeyaman08/Leetcode_Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pandeyaman08/Leetcode_Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pandeyaman08/Leetcode_Code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/pandeyaman08/Leetcode_Code/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Monotonic Stack
 |  |
@@ -145,6 +148,7 @@
 | [0486-predict-the-winner](https://github.com/pandeyaman08/Leetcode_Code/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/pandeyaman08/Leetcode_Code/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/pandeyaman08/Leetcode_Code/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pandeyaman08/Leetcode_Code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
 | ------- |
