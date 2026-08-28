@@ -56,6 +56,7 @@
 | ------- |
 | [0015-3sum](https://github.com/pandeyaman08/Leetcode_Code/tree/master/0015-3sum) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pandeyaman08/Leetcode_Code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/pandeyaman08/Leetcode_Code/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pandeyaman08/Leetcode_Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -139,6 +140,7 @@
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/pandeyaman08/Leetcode_Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/pandeyaman08/Leetcode_Code/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/pandeyaman08/Leetcode_Code/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/pandeyaman08/Leetcode_Code/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Stack
 |  |
 | ------- |
@@ -169,6 +171,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/pandeyaman08/Leetcode_Code/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/pandeyaman08/Leetcode_Code/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/pandeyaman08/Leetcode_Code/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/pandeyaman08/Leetcode_Code/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Segment Tree
 |  |
 | ------- |
