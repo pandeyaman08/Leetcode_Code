@@ -157,6 +157,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/pandeyaman08/Leetcode_Code/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/pandeyaman08/Leetcode_Code/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/pandeyaman08/Leetcode_Code/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pandeyaman08/Leetcode_Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -180,6 +181,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/pandeyaman08/Leetcode_Code/tree/master/0020-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pandeyaman08/Leetcode_Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/pandeyaman08/Leetcode_Code/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Greedy
@@ -344,5 +346,6 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/pandeyaman08/Leetcode_Code/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/pandeyaman08/Leetcode_Code/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
