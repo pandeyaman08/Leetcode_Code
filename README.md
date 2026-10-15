@@ -20,6 +20,7 @@
 | [2029-stone-game-ix](https://github.com/pandeyaman08/Leetcode_Code/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pandeyaman08/Leetcode_Code/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/pandeyaman08/Leetcode_Code/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pandeyaman08/Leetcode_Code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/pandeyaman08/Leetcode_Code/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pandeyaman08/Leetcode_Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pandeyaman08/Leetcode_Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -112,6 +113,7 @@
 | [1386-cinema-seat-allocation](https://github.com/pandeyaman08/Leetcode_Code/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pandeyaman08/Leetcode_Code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pandeyaman08/Leetcode_Code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pandeyaman08/Leetcode_Code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pandeyaman08/Leetcode_Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pandeyaman08/Leetcode_Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pandeyaman08/Leetcode_Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -220,6 +222,7 @@
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/pandeyaman08/Leetcode_Code/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pandeyaman08/Leetcode_Code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/pandeyaman08/Leetcode_Code/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Bit Manipulation
 |  |
@@ -348,4 +351,8 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/pandeyaman08/Leetcode_Code/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/pandeyaman08/Leetcode_Code/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pandeyaman08/Leetcode_Code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
